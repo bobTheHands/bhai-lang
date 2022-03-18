@@ -11,6 +11,7 @@ export default function Docs() {
     <div className="bg-background">
       <Head>
         <title>Bhailang - A toy programming language based on an inside joke</title>
+        <base href="/bhai-lang" />
         <meta property="og:title" content="Bhailang - A toy programming language based on an inside joke" key="title" />
         <meta property="og:type" content="website" key="type" />
         <meta property="og:url" content="https://bhailang.js.org" key="url" />
